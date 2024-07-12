@@ -1,1 +1,0 @@
-# Integral to Excel Solver

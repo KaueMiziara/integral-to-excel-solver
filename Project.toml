@@ -1,0 +1,4 @@
+name = "TexToCalcFormula"
+uuid = "7cbdd150-a330-48f9-aca8-073c1f462f74"
+authors = ["Kaue Miziara <kauemiziara@gmail.com>"]
+version = "0.1.0"
